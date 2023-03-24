@@ -63,4 +63,4 @@ I'm a contract developer and want to interact with ENS from my contract code
 Check out the Contract Developer Guide, starting with Resolving Names On-chain. You can also write your own resolver (to customise the process of looking up names), or your own registrar (to customise the process of registering new names).
 
 I want reference documentation for the ENS smart contracts
-Check out the Contract API Reference. We have reference documentation for ENS's core contract, the registry, for resolvers, and for commonly-used registrars such as the Test registrar, reverse registrar, and the .eth registrar.
+Check out the Contract API Reference. We have reference documentation for ENS's core contract, the registry, for resolvers, and for commonly-used registrars such as the Test registrar, reverse registrar, and the .eth registrar.0
